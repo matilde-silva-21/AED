@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Account.h
+string
+-
+iostream
+-
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Bank.cpp
+Bank.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Bank.h
+algorithm
+-
+string
+-
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Bank.h
+Account.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Account.h
+vector
+-
+BankOfficer.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/BankOfficer.h
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/BankOfficer.h
+Account.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T1-2018/2018_ficheiros/Tests/Account.h
+string
+-
+vector
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T2_2016/Tests/AfterSalesService.cpp
+algorithm
+-
+iostream
+-
+AfterSalesService.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T2_2016/Tests/AfterSalesService.h
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T2_2016/Tests/AfterSalesService.h
+vector
+-
+queue
+-
+vector
+-
+Article.h
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T2_2016/Tests/Article.h
+
+C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/TestesModelo/T2_2016/Tests/Article.h
+

@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\clfma\Desktop\Faculdade\Y2S1\AED\Pratica3
+CMake Error: File C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/Pratica3/docs/Doxyfile does not exist.
+CMake Error at CMakeLists.txt:23 (configure_file):
+  configure_file Problem configuring file
+
+
+Doxygen build started
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/clfma/Desktop/Faculdade/Y2S1/AED/Pratica3/cmake-build-debug/CMakeFiles/CMakeOutput.log".

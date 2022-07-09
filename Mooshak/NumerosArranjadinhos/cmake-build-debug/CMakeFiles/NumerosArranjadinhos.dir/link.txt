@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NumerosArranjadinhos.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\NumerosArranjadinhos.dir/objects.a @CMakeFiles\NumerosArranjadinhos.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\NumerosArranjadinhos.dir/objects.a -Wl,--no-whole-archive -o NumerosArranjadinhos.exe -Wl,--out-implib,libNumerosArranjadinhos.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NumerosArranjadinhos.dir\linklibs.rsp
