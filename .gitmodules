@@ -1,6 +1,9 @@
 [submodule "ProjAED1"]
 	path = ProjAED1
 	url = https://github.com/matilde-silva-21/ProjAED
+	branch = main
 [submodule "ProjAED2"]
 	path = ProjAED2
 	url = https://github.com/matilde-silva-21/ProjAED2
+	branch = main
+
